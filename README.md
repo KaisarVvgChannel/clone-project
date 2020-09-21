@@ -1,2 +1,0 @@
-# clone-project
-git clone
